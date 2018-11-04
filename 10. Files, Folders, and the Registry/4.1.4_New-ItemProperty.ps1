@@ -1,0 +1,1 @@
+New-ItemProperty HKCU:\Environment -Name Expand -Value 'User: %USERNAME%' -PropertyType ExpandString 
