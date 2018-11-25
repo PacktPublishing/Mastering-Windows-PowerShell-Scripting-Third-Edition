@@ -1,0 +1,1 @@
+{ Write-Host 'content' }.Ast 
