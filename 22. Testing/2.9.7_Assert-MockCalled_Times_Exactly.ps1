@@ -1,0 +1,1 @@
+Assert-MockCalled Get-CimInstance -Times 1 -Exactly

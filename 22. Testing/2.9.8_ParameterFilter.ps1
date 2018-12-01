@@ -1,0 +1,1 @@
+Mock Test-Path { $true } -ParameterFilter { $Path -eq 'C:\Somewhere' }
