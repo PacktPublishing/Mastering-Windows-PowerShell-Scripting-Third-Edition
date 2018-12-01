@@ -1,0 +1,1 @@
+[PSCustomObject]@{} | Add-Member MethodName -MemberType ScriptMethod -Value { }
