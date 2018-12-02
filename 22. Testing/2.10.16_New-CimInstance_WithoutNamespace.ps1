@@ -1,0 +1,1 @@
+New-CimInstance MSFT_NetAdapter -ClientOnly
