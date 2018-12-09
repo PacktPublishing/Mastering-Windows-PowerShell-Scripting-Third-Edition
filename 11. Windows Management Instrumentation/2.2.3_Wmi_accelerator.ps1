@@ -1,0 +1,1 @@
+[Wmi]"Win32_Process.Handle=$PID" | Select-Object Name, Handle
