@@ -1,0 +1,1 @@
+$env:PSModulePath -split ';'
