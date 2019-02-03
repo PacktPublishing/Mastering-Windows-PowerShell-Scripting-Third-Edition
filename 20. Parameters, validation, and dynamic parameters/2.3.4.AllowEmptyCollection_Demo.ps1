@@ -1,0 +1,1 @@
+Test-AllowEmptyCollection -Parameter1 @()
