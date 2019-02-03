@@ -11,4 +11,14 @@ $examResults | Sort-Object {
         'Fail' { 2 }
         'N/A' { 3 }
     }
-}, @{ Expression = { $_.Mark }; Descending = $true }
+}, Mark
+
+# Expects output:
+#
+# Exam     Result    Mark
+# ----     ------    ----
+# Biology    Pass      78
+# Physics    Pass      86
+# Maths      Pass      92
+# History    Fail      23
+# Music       N/A       0

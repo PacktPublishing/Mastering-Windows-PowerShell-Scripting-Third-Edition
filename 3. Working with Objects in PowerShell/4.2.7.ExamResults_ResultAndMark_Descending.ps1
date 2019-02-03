@@ -11,4 +11,14 @@ $examResults | Sort-Object {
         'Fail' { 2 }
         'N/A' { 3 }
     }
-}, Mark
+}, Mark -Descending
+
+# Expects output:
+#
+# Exam     Result    Mark
+# ----     ------    ----
+# Music       N/A       0
+# History    Fail      23
+# Maths      Pass      92
+# Physics    Pass      86
+# Biology    Pass      78
