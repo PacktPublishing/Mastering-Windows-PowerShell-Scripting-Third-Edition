@@ -1,0 +1,1 @@
+Export-ModuleMember -Function *-ComputerDescription
