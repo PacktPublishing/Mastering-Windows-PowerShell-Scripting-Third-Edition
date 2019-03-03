@@ -1,0 +1,1 @@
+'one', 'two', 'three' | Where-Object { $_ -match 'one|three' }
