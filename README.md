@@ -39,10 +39,10 @@ If you are a system administrator who wants to become an expert in controlling a
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-21).
 ### Software and Hardware List
-| Chapter | Software required | OS required |
+| Chapter | Software required | 
 | -------- | ------------------------------------ | ----------------------------------- |
-| 1-21 | Windows PowerShell and PowerShell Core |  |
-| 13 | Visual Studio 2015 or 2017 Community Edition |  |
+| 1-21 | Windows PowerShell and PowerShell Core |  
+| 13 | Visual Studio 2015 or 2017 Community Edition |  
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789536669_ColorImages.pdf).
