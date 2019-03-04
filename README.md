@@ -55,7 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Chris Dent**
-Chris Dent is an automation specialist with a deep interest in the PowerShell language. Chris is often found lurking and answering questions about PowerShell in both the UK and virtual PowerShell user groups. Chris has been developing in PowerShell since 2007 and has released several modules over the years.
+is an automation specialist with a deep interest in the PowerShell language. Chris is often found lurking and answering questions about PowerShell in both the UK and virtual PowerShell user groups. Chris has been developing in PowerShell since 2007 and has released several modules over the years.
 
 
 ## Other books by the authors
